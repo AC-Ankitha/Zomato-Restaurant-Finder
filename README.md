@@ -2,24 +2,24 @@
 
 **Features**
 
-**-**Search by Location: Find restaurants near a specified latitude and longitude within a radius.
+-Search by Location: Find restaurants near a specified latitude and longitude within a radius.
 
-**-**Search by Name: Look up restaurants by name, with options to filter by cuisine and country.
+-Search by Name: Look up restaurants by name, with options to filter by cuisine and country.
 
-**-**Image Recognition Search: Upload an image to find restaurants known for specific cuisines (mock implementation).
+-Image Recognition Search: Upload an image to find restaurants known for specific cuisines (mock implementation).
 
-**-**Filtering: Filter restaurants by name, country, average spending range, and cuisine.
+-Filtering: Filter restaurants by name, country, average spending range, and cuisine.
 
-**-**Pagination: Display search results across multiple pages for easier navigation.
+-Pagination: Display search results across multiple pages for easier navigation.
 
-**-**Dropdown Lists: Retrieve distinct lists of countries and cuisines available in the database.
+-Dropdown Lists: Retrieve distinct lists of countries and cuisines available in the database.
 
 **Technologies Used**
 
-**-**Flask: Python web framework used for backend development.
+-Flask: Python web framework used for backend development.
 
-**-**SQLAlchemy: ORM for interacting with the database.
+-SQLAlchemy: ORM for interacting with the database.
 
-**-**Bootstrap: Frontend framework for responsive design.
+-Bootstrap: Frontend framework for responsive design.
 
-**-**Haversine Formula: Calculates distances between geographic coordinates for location-based searches
+-Haversine Formula: Calculates distances between geographic coordinates for location-based searches
